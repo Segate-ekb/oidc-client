@@ -4,6 +4,7 @@
 Описание.Имя("oidc-client")
 		.Версия("0.6.0")
 		.Автор("OpenHub")
+        .АдресРепозитория("https://github.com/segate-ekb/oidc-client")
 		.Описание("Вход через провайдера OpenID Connect и OAuth 2.0 для OneScript")
 		.ВерсияСреды("2.0.0")
 
